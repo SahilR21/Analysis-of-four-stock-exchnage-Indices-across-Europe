@@ -1,5 +1,4 @@
-# Chapter no. 04
-#PROJECT NO. 02 - Data ON 4 stock exchange indices across Europe
+#PROJECT - Data ON 4 stock exchange indices across Europe
 #install.packages("xts")
 #install.packages("qrmdata")
 #let's load the library that will be useful
